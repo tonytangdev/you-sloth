@@ -1,0 +1,10 @@
+{
+  "name": "sendSms",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "author": "tonytang-dev",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.6.0"
+  }
+}
